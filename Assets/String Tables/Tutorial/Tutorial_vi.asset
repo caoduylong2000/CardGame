@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: df2a3d7a880fc465d8dcf0943e02d491, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15463342080
+    m_Localized: "B\u1EA1n c\u1EA7n m\u1ED9t v\u1EADt ph\u1EA9m \u0111\u1EC3 b\xE1n
+      cho Qu\u1EF7!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380338429952
+    m_Localized: "B\u1EA1n c\xF3 th\u1EC3 th\u1EA5y th\xF4ng tin v\u1EADt ph\u1EA9m
+      t\u1EA1i \u0111\xE2y."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476299911168
+    m_Localized: "\u0110\u1EC3 t\xF4i h\u01B0\u1EDBng d\u1EABn cho b\u1EA1n m\xF4t
+      s\u1ED1 \u0111i\u1EC1u b\u1EA1n c\u1EA7n bi\u1EBFt khi b\xE1n h\xE0ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517806743552
+    m_Localized: "B\xE2y gi\u1EDD hay th\u1EED b\xE1n s\u1EA3n ph\u1EA9m b\u1EA1n
+      \u0111\xE3 ch\u1ECDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541756219392
+    m_Localized: "B\xE2y gi\u1EDD hay th\u1EED b\xE1n s\u1EA3n ph\u1EA9m b\u1EA1n
+      \u0111\xE3 ch\u1ECDn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555085717504
+    m_Localized: "H\u1EE9ng th\xFA c\u1EE7a kh\xE1ch h\xE0ng \u0111\u1EA1t 50%. H\xE3y
+      t\xECm th\u1EBB \"Closing Card\" \u0111\u1EC3 \"Ch\u1ED1t\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588728229888
+    m_Localized: "B\u1EA1n c\xF3 v\u1EBB kh\xE1 may m\u1EAFn khi c\xF3 th\u1EC3 \"ch\u1ED1t
+      deal\" khi kh\xE1ch h\xE0ng c\xF3 \u0111\u1ED9 h\u1EE9ng th\xFA th\u1EA5p. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619296317440
+    m_Localized: "C\xF3 th\u1EC3 b\u1EA1n kh\xF4ng \u0111\u1EC3 \xFD, nh\u01B0ng
+      c\xF3 m\u1ED9t l\xE1 b\xE0i \u0111\u1EB7c bi\u1EBFt \u0111\u1EC3 c\xF3 th\u1EC3
+      \"Ch\u1ED1t Deal\" v\u1EDBi kh\xE1ch h\xE0ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644332118016
+    m_Localized: "Th\u1EBB n\xE0y \u0111\u01B0\u1EE3c g\u1ECDi l\xE0 \"Closing Card\".
+      \u0110\xE2y l\xE0 m\u1ED9t th\u1EBB quan tr\u1ECDng \u0111\u1EC3 c\xF3 th\u1EC3
+      k\u1EBFt th\xFAc giao d\u1ECBch gi\u1EEFa b\u1EA1n v\xE0 kh\xE1ch h\xE0ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656671760384
+    m_Localized: "H\xE3y nh\u1EDB: \u201CB\u1EA1n c\u1EA7n c\xF3 \xEDt nh\u1EA5t
+      1 Th\u1EBB Closing trong b\u1ED9 b\xE0i c\u1EE7a m\xECnh\u201D."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671368601600
+    m_Localized: "\u0110\xF3 ch\xEDnh l\xE0 Th\u1EBB Closing. \u0110\xE2y l\xE0 th\u1EBB
+      gi\xFAp b\u1EA1n \"Ch\u1ED1t \u0111\u01A1n\u201D v\u1EDBi kh\xE1ch h\xE0ng."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683221704704
+    m_Localized: "\u0110\xE2y l\xE0 Th\u1EBB quan tr\u1ECDng n\xEAn h\xE3y nh\u1EDB:
+      \u201CB\u1EA1n c\u1EA7n c\xF3 \xEDt nh\u1EA5t 1 Th\u1EBB Closing trong b\u1ED9
+      b\xE0i c\u1EE7a m\xECnh\u201D."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701236240384
+    m_Localized: "B\xE2y gi\u1EDD, h\xE3y th\u1EED s\u1EED d\u1EE5ng Th\u1EBB Closing!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

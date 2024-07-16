@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Intro_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6c3868a0abfba4870863cd26781e70ec, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 649130401792
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732542525440
+    m_Localized: God
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1053926875136
+    m_Localized: Where is this? Doesn't look like where I live?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1308059754496
+    m_Localized: Who are you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560787542016
+    m_Localized: So where is this? Why am I here?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1703125442560
+    m_Localized: You mean I'm dead? And I am currently a "ghost".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1817004990464
+    m_Localized: "I... I don't know what to say. \nIf I had known this would happen,
+      I would have quit working at that black company a long time ago. \nI'm not
+      even married yet!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977638445056
+    m_Localized: "I'm not interested in that kind of Fantasy world!! \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2132248879104
+    m_Localized: Is that possible?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2253392961536
+    m_Localized: What are the conditions?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2347806744576
+    m_Localized: "1 Million Gold??\n...\n How much is it?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2485895815168
+    m_Localized: I feel like you are no different from my old Boss!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2575351930880
+    m_Localized: Okay, I accept this condition. Better than being in some dangerous
+      Fantasy world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763105755136
+    m_Localized: This is not the world you used to live in anymore.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2911579922432
+    m_Localized: You can call me "God".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3086092328960
+    m_Localized: 'This is my another space. I brought you here after you died. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3186592047104
+    m_Localized: You died on the road due to a traffic accident!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3330922242048
+    m_Localized: I prefer to call it "Soul". But you can call it that.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3490624561152
+    m_Localized: You have all the qualifications to become a "Great Sage".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3533549068288
+    m_Localized: So do you want to return to the old world?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3654705733632
+    m_Localized: Maybe, but there must be conditions!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3743872442368
+    m_Localized: I need you to use your 5 years of sales experience. Down to hell.
+      And brought home 1 million Gold.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3850558758912
+    m_Localized: Quite difficult to convert it to old world currency. I think it's
+      best for you to experience it yourself.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013486497792
+    m_Localized: Don't compare me with humanity. You can do it for as long as you
+      like. The sooner you achieve it, the sooner you can return.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

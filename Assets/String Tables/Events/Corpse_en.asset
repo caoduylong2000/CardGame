@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corpse_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 516f8a177f4614d88b2f201b592afba0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1904382818564964362
+  m_TableData:
+  - m_Id: 24862777344
+    m_Localized: You come across a corpse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73445400576
+    m_Localized: You are attacked by a zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96790896640
+    m_Localized: "You were minor injured while running away \n(Lose {hpcorpse} HP)"
+    m_Metadata:
+      m_Items:
+      - rid: 1904382818564964362
+  - m_Id: 158208090112
+    m_Localized: Run away from zombies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121663119360
+    m_Localized: Continue past the corpse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176159711232
+    m_Localized: Back to the Map
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904382818564964362
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02f8916000000

@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 39807c14197c0470e855c55739384c5b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1904383000799084546
+  m_TableData:
+  - m_Id: 1346426930978816
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975181638623232
+    m_Localized: Back To Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346530568036352
+    m_Localized: Vocational
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346614886129664
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346768968081408
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986897852227584
+    m_Localized: Yearly Quota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986819435520000
+    m_Localized: Target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349871821905920
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975840798662656
+    m_Localized: Use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975828589043712
+    m_Localized: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1368351371681792
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372964279803904
+    m_Localized: "Heal ({int})\t"
+    m_Metadata:
+      m_Items:
+      - rid: 1904383000799084546
+  - m_Id: 1373539528597504
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974194567897088
+    m_Localized: End Turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974548676206592
+    m_Localized: Potions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974740045520896
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974855120445440
+    m_Localized: You Win!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974676619255808
+    m_Localized: Relics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974660630568960
+    m_Localized: Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974965418057728
+    m_Localized: You Lose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975061853495296
+    m_Localized: Back to Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975086646026240
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975215696371712
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990221544546304
+    m_Localized: Pause Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990369637031936
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990489099198464
+    m_Localized: Abaddon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990810856841216
+    m_Localized: Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990989756489728
+    m_Localized: Gold Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991306325778432
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991372662890496
+    m_Localized: Next Year
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991699084599296
+    m_Localized: Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991943092428800
+    m_Localized: Enter text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1992054480560128
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904383000799084546
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02f28b4e00400

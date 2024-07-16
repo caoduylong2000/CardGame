@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Small Gift Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Small Gift
+  m_TableCollectionNameGuidString: f29354e8bc4734ba1b3b91e303581354
+  m_Entries:
+  - m_Id: 41291866112
+    m_Key: text1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52901699584
+    m_Key: text2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63873998848
+    m_Key: text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81485881344
+    m_Key: choice1-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95750709248
+    m_Key: choice1-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137861521408
+    m_Key: choice2-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152189263872
+    m_Key: choice2-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166248570880
+    m_Key: choice3-1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1904382818564964385
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904382818564964385
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717474306376

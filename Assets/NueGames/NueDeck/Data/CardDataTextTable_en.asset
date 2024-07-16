@@ -1,0 +1,575 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CardDataTextTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: d62e50b1912c644038678697a88562e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 388497646018560
+    m_Localized: Telephone sales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810422992896
+    m_Localized: Telephone sales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810422992897
+    m_Localized: Telephone sales
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810422992898
+    m_Localized: access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187200
+    m_Localized: access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187201
+    m_Localized: access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187202
+    m_Localized: suggestion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187203
+    m_Localized: suggestion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187204
+    m_Localized: suggestion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187208
+    m_Localized: online meeting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187209
+    m_Localized: online meeting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187210
+    m_Localized: online meeting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187217
+    m_Localized: reception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187218
+    m_Localized: reception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810427187219
+    m_Localized: reception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964416
+    m_Localized: 'Call clients and make sales calls.
+
+      This was a popular method
+      in the past, but now email and SNS sales are the mainstream, and sales over
+      the phone may be disliked by some clients, so be careful. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964417
+    m_Localized: 'Call clients and make sales calls.
+
+      This was a popular method
+      in the past, but now email and SNS sales are the mainstream, and sales over
+      the phone may be disliked by some clients, so be careful. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964418
+    m_Localized: 'Call clients and make sales calls.
+
+      This was a popular method
+      in the past, but now email and SNS sales are the mainstream, and sales over
+      the phone may be disliked by some clients, so be careful. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964419
+    m_Localized: 'Visit the client.
+
+      It is important to communicate carefully
+      in advance.
+
+      Surprise visits are usually not looked upon very well. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964420
+    m_Localized: 'Visit the client.
+
+      It is important to communicate carefully
+      in advance.
+
+      Surprise visits are usually not looked upon very well. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964421
+    m_Localized: 'Visit the client.
+
+      It is important to communicate carefully
+      in advance.
+
+      Surprise visits are usually not looked upon very well. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964422
+    m_Localized: 'We will propose new businesses and projects.
+
+      Success requires
+      advanced analysis tailored to the client, but once determined, great results
+      can be achieved. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964423
+    m_Localized: 'We will propose new businesses and projects.
+
+      Success requires
+      advanced analysis tailored to the client, but once determined, great results
+      can be achieved. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964424
+    m_Localized: 'We will propose new businesses and projects.
+
+      Success requires
+      advanced analysis tailored to the client, but once determined, great results
+      can be achieved. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810443964425
+    m_Localized: In sales, silence can sometimes be a powerful weapon. Appropriate
+      silence can be more persuasive than eloquence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158720
+    m_Localized: In sales, silence can sometimes be a powerful weapon. Appropriate
+      silence can be more persuasive than eloquence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158721
+    m_Localized: In sales, silence can sometimes be a powerful weapon. Appropriate
+      silence can be more persuasive than eloquence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158722
+    m_Localized: 'We will have an online meeting.
+
+      It is a commonly used method
+      these days because it is easier to conduct than face-to-face meetings, but
+      in terms of building relationships with clients, it is recommended to use it
+      in combination with face-to-face meetings. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158723
+    m_Localized: 'We will have an online meeting.
+
+      It is a commonly used method
+      these days because it is easier to conduct than face-to-face meetings, but
+      in terms of building relationships with clients, it is recommended to use it
+      in combination with face-to-face meetings. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158724
+    m_Localized: 'We will have an online meeting.
+
+      It is a commonly used method
+      these days because it is easier to conduct than face-to-face meetings, but
+      in terms of building relationships with clients, it is recommended to use it
+      in combination with face-to-face meetings. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158725
+    m_Localized: 'Presentations are extremely important in sales.
+
+      It''s fair
+      to say that being good at presentations is a necessary skill.
+
+      This is
+      a very deep subject, and it requires a wide range of skills, including creating
+      materials and speaking skills. However, it''s common to fail if you focus too
+      much on the materials, so you need to be careful.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158726
+    m_Localized: 'Presentations are extremely important in sales.
+
+      It''s fair
+      to say that being good at presentations is a necessary skill.
+
+      This is
+      a very deep subject, and it requires a wide range of skills, including creating
+      materials and speaking skills. However, it''s common to fail if you focus too
+      much on the materials, so you need to be careful.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158727
+    m_Localized: 'Presentations are extremely important in sales.
+
+      It''s fair
+      to say that being good at presentations is a necessary skill.
+
+      This is
+      a very deep subject, and it requires a wide range of skills, including creating
+      materials and speaking skills. However, it''s common to fail if you focus too
+      much on the materials, so you need to be careful.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158731
+    m_Localized: 'We entertain clients at restaurants, etc.
+
+      You need to find
+      out what kind of entertainment your clients like.
+
+      Although entertainment
+      that involves drinking alcohol has been gradually decreasing in recent years,
+      it is still an important sales technique. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158732
+    m_Localized: 'We entertain clients at restaurants, etc.
+
+      You need to find
+      out what kind of entertainment your clients like.
+
+      Although entertainment
+      that involves drinking alcohol has been gradually decreasing in recent years,
+      it is still an important sales technique. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158733
+    m_Localized: 'We entertain clients at restaurants, etc.
+
+      You need to find
+      out what kind of entertainment your clients like.
+
+      Although entertainment
+      that involves drinking alcohol has been gradually decreasing in recent years,
+      it is still an important sales technique. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158734
+    m_Localized: Even if there are no surprising new regulations, if it is a proposal
+      that the client wants, it can be very effective. A solid proposal is less likely
+      to fail and will often be well received.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158735
+    m_Localized: Even if there are no surprising new regulations, if it is a proposal
+      that the client wants, it can be very effective. A solid proposal is less likely
+      to fail and will often be well received.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158736
+    m_Localized: Even if there are no surprising new regulations, if it is a proposal
+      that the client wants, it can be very effective. A solid proposal is less likely
+      to fail and will often be well received.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158737
+    m_Localized: 'Listening is the basis of sales.
+
+      Find out what your client
+      wants and think of effective proposals to address them.
+
+      Just showing
+      that you are willing to listen will help you gain the client''s trust.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158738
+    m_Localized: 'Listening is the basis of sales.
+
+      Find out what your client
+      wants and think of effective proposals to address them.
+
+      Just showing
+      that you are willing to listen will help you gain the client''s trust.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158739
+    m_Localized: 'Listening is the basis of sales.
+
+      Find out what your client
+      wants and think of effective proposals to address them.
+
+      Just showing
+      that you are willing to listen will help you gain the client''s trust.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158740
+    m_Localized: Talking at length is not necessarily good for sales, but sometimes
+      wasting time can simply rob a client of their ability to make decisions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158741
+    m_Localized: Talking at length is not necessarily good for sales, but sometimes
+      wasting time can simply rob a client of their ability to make decisions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158742
+    m_Localized: Talking at length is not necessarily good for sales, but sometimes
+      wasting time can simply rob a client of their ability to make decisions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158743
+    m_Localized: If your product is truly good, your clients should buy it, and if
+      you can recommend the product with that feeling in your heart, your sales are
+      sure to be good.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158744
+    m_Localized: If your product is truly good, your clients should buy it, and if
+      you can recommend the product with that feeling in your heart, your sales are
+      sure to be good.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158745
+    m_Localized: If your product is truly good, your clients should buy it, and if
+      you can recommend the product with that feeling in your heart, your sales are
+      sure to be good.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158746
+    m_Localized: Nodding is very important. People tend to trust those who listen
+      to them and nod, even if they are not people.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158747
+    m_Localized: Nodding is very important. People tend to trust those who listen
+      to them and nod, even if they are not people.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158748
+    m_Localized: Nodding is very important. People tend to trust those who listen
+      to them and nod, even if they are not people.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810448158749
+    m_Localized: Some salespeople are good at this, but you can't use it many times,
+      so try not to rely on it too much.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353024
+    m_Localized: Some salespeople are good at this, but you can't use it many times,
+      so try not to rely on it too much.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353025
+    m_Localized: Some salespeople are good at this, but you can't use it many times,
+      so try not to rely on it too much.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353026
+    m_Localized: 'Positive proposals will often impress the other party because of
+      their enthusiasm.
+
+      However, you need to be careful not to force your
+      own convenience on them.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353027
+    m_Localized: 'Positive proposals will often impress the other party because of
+      their enthusiasm.
+
+      However, you need to be careful not to force your
+      own convenience on them.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353028
+    m_Localized: 'Positive proposals will often impress the other party because of
+      their enthusiasm.
+
+      However, you need to be careful not to force your
+      own convenience on them.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353029
+    m_Localized: 'Proposing plans based on thorough research is more effective than
+      simply promoting a product.
+
+      However, research is much more difficult
+      than it seems, and it often means staying up all night.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353030
+    m_Localized: 'Proposing plans based on thorough research is more effective than
+      simply promoting a product.
+
+      However, research is much more difficult
+      than it seems, and it often means staying up all night.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353031
+    m_Localized: 'Proposing plans based on thorough research is more effective than
+      simply promoting a product.
+
+      However, research is much more difficult
+      than it seems, and it often means staying up all night.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353032
+    m_Localized: 'When you''re wondering what to do, if you receive an additional
+      suggestion, you tend to think more positively.
+
+      Excellent salespeople
+      know when to make an additional suggestion.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353033
+    m_Localized: 'When you''re wondering what to do, if you receive an additional
+      suggestion, you tend to think more positively.
+
+      Excellent salespeople
+      know when to make an additional suggestion.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353034
+    m_Localized: 'When you''re wondering what to do, if you receive an additional
+      suggestion, you tend to think more positively.
+
+      Excellent salespeople
+      know when to make an additional suggestion.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353035
+    m_Localized: 'If the wife is on your side, your sales call is as good as successful.
+
+      When
+      visiting a woman on a sales call, be polite to her.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353036
+    m_Localized: 'If the wife is on your side, your sales call is as good as successful.
+
+      When
+      visiting a woman on a sales call, be polite to her.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353037
+    m_Localized: 'If the wife is on your side, your sales call is as good as successful.
+
+      When
+      visiting a woman on a sales call, be polite to her.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353038
+    m_Localized: 'We use social media to get likes.
+
+      But please be careful
+      about the distance you keep.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353039
+    m_Localized: 'We use social media to get likes.
+
+      But please be careful
+      about the distance you keep.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353040
+    m_Localized: 'We use social media to get likes.
+
+      But please be careful
+      about the distance you keep.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353041
+    m_Localized: The art of using analogies is essential for salespeople. It's something
+      you want to be able to use easily at any time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353042
+    m_Localized: The art of using analogies is essential for salespeople. It's something
+      you want to be able to use easily at any time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353043
+    m_Localized: The art of using analogies is essential for salespeople. It's something
+      you want to be able to use easily at any time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353044
+    m_Localized: 'I will focus on this project.
+
+      Salespeople often have multiple
+      projects in hand, but at critical times it is necessary to focus on one project.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353045
+    m_Localized: 'I will focus on this project.
+
+      Salespeople often have multiple
+      projects in hand, but at critical times it is necessary to focus on one project.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353046
+    m_Localized: 'I will focus on this project.
+
+      Salespeople often have multiple
+      projects in hand, but at critical times it is necessary to focus on one project.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353050
+    m_Localized: We celebrate clients' birthdays and other special occasions. Even
+      if we're in sales, it's nice to see this kind of consideration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353051
+    m_Localized: We celebrate clients' birthdays and other special occasions. Even
+      if we're in sales, it's nice to see this kind of consideration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353052
+    m_Localized: We celebrate clients' birthdays and other special occasions. Even
+      if we're in sales, it's nice to see this kind of consideration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353053
+    m_Localized: 'Being a good advisor to your clients is important for building
+      good business relationships.
+
+      In order to meet the various needs of your
+      clients, you need experience and knowledge.
+
+      Let''s keep working hard!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353054
+    m_Localized: 'Being a good advisor to your clients is important for building
+      good business relationships.
+
+      In order to meet the various needs of your
+      clients, you need experience and knowledge.
+
+      Let''s keep working hard!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390810452353055
+    m_Localized: 'Being a good advisor to your clients is important for building
+      good business relationships.
+
+      In order to meet the various needs of your
+      clients, you need experience and knowledge.
+
+      Let''s keep working hard!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

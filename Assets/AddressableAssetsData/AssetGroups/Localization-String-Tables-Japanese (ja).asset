@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Japanese (ja)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Japanese (ja)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 02923371a07ba4fdf9dbc584fc757b7a
+  m_SerializeEntries:
+  - m_GUID: 0ff4b595867124e2aaeb87dbd3d300f8
+    m_Address: Intro_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a1ced0e9f724f47a2c0cf276a181c3
+    m_Address: Tutorial_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8320828e160849d9b11bc75ff5a65f6
+    m_Address: Hospital Event_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48eb235529e9d4416a91df02d53588cd
+    m_Address: Corpse_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e85d13143cc54fb39cf3c432de42271
+    m_Address: Small Gift_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72cad3144d8a74bfdb13ed919657b5f8
+    m_Address: Jungle_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a10a3a99e6eae422e83cb7dadced5fc3
+    m_Address: Nothing_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 345c88e056d98422ab61e9857bb3e5b0
+    m_Address: Tutorial Panel_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80df3f460bb5240ce8de88860ad5fad1
+    m_Address: Gold Pocket_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3c84029244c940b28766b7c9152fb97
+    m_Address: UIText_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a9f1cb7adb89400ab4d28d8d0d46b36
+    m_Address: CardDataTextTable_ja
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ja
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4920065234c16443a8711cc2091edd80, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7606eab01226343fe8f01268e9a84d37, type: 2}
+    - {fileID: 11400000, guid: f5c66e2af82f542b9ab27d71fb71e81d, type: 2}

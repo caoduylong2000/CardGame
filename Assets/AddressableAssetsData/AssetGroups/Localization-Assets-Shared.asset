@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5151efc74b59546c98480645dc85bc16
+  m_SerializeEntries:
+  - m_GUID: 6c3868a0abfba4870863cd26781e70ec
+    m_Address: Assets/String Tables/Intro/Intro Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2a3d7a880fc465d8dcf0943e02d491
+    m_Address: Assets/String Tables/Tutorial/Tutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd1ebdf789f634b0bbdd0a03f2de22fd
+    m_Address: Assets/String Tables/Events/Hospital Event Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 516f8a177f4614d88b2f201b592afba0
+    m_Address: Assets/String Tables/Events/Corpse Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29354e8bc4734ba1b3b91e303581354
+    m_Address: Assets/String Tables/Events/Small Gift Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec5ee65829716419fb4c9b5997021b70
+    m_Address: Assets/String Tables/Events/Jungle Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e481588be5cf46de94a0cef01a15663
+    m_Address: Assets/String Tables/Events/Nothing Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cf7582ed1d244b8fa3e49930fc1af38
+    m_Address: Assets/String Tables/Tutorial/Tutorial Panel Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 458a6d5a26e1649ecbc3d31386375e4f
+    m_Address: Assets/String Tables/Events/Gold Pocket Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39807c14197c0470e855c55739384c5b
+    m_Address: Assets/String Tables/UI/UIText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d62e50b1912c644038678697a88562e7
+    m_Address: Assets/NueGames/NueDeck/Data/CardDataTextTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4920065234c16443a8711cc2091edd80, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ed68945008bfe4320ae0f13d0d898d17, type: 2}
+    - {fileID: 11400000, guid: 851864260b4814d14894a3eefba5b0b3, type: 2}

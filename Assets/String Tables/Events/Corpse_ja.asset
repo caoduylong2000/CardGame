@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Corpse_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 516f8a177f4614d88b2f201b592afba0, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1904382818564964363
+  m_TableData:
+  - m_Id: 96790896640
+    m_Localized: "\u9003\u8D70\u4E2D\u306B\u8EFD\u50B7\u3092\u8CA0\u3063\u305F \n(HP
+      {hpcorpse} \u3092\u5931\u3046)"
+    m_Metadata:
+      m_Items:
+      - rid: 1904382818564964363
+  - m_Id: 24862777344
+    m_Localized: "\u6B7B\u4F53\u3092\u898B\u3064\u3051\u305F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73445400576
+    m_Localized: "\u30BE\u30F3\u30D3\u306B\u8972\u308F\u308C\u305F\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121663119360
+    m_Localized: "\u6B7B\u4F53\u3092\u8D8A\u3048\u3066\u9032\u307F\u307E\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158208090112
+    m_Localized: "\u30BE\u30F3\u30D3\u306E\u5927\u7FA4\u304B\u3089\u9003\u3052\u308B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 176159711232
+    m_Localized: "Map\u306B\u623B\u308B"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904382818564964363
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02f8916000000

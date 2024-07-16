@@ -1,0 +1,300 @@
+{
+    "ListTrainingLevelInfo": [
+        {
+            "TrainingLv": 0,
+            "RequireCrystal": 0,
+            "ListIndexMul": {
+                "AttackBonus": 1,
+                "RecoveryBonus": 1,
+                "ClosingRate": 1,
+                "LegendItemRate": 1,
+                "MoneyBonus": 1,
+                "DesireBonus": 1,
+                "PlayerHP": 1,
+                "CrystalRate": 1
+            }
+        },
+        {
+            "TrainingLv": 1,
+            "RequireCrystal": 1,
+            "ListIndexMul": {
+                "AttackBonus": 1.05,
+                "RecoveryBonus": 1.025,
+                "ClosingRate": 1.015,
+                "LegendItemRate": 1.03,
+                "MoneyBonus": 1.025,
+                "DesireBonus": 1.05,
+                "PlayerHP": 1.05,
+                "CrystalRate": 1.5
+            }
+        },
+        {
+            "TrainingLv": 2,
+            "RequireCrystal": 2,
+            "ListIndexMul": {
+                "AttackBonus": 1.1,
+                "RecoveryBonus": 1.05,
+                "ClosingRate": 1.03,
+                "LegendItemRate": 1.05,
+                "MoneyBonus": 1.05,
+                "DesireBonus": 1.1,
+                "PlayerHP": 1.1,
+                "CrystalRate": 2
+            }
+        },
+        {
+            "TrainingLv": 3,
+            "RequireCrystal": 3,
+            "ListIndexMul": {
+                "AttackBonus": 1.16,
+                "RecoveryBonus": 1.075,
+                "ClosingRate": 1.045,
+                "LegendItemRate": 1.08,
+                "MoneyBonus": 1.075,
+                "DesireBonus": 1.15,
+                "PlayerHP": 1.15,
+                "CrystalRate": 2.5
+            }
+        },
+        {
+            "TrainingLv": 4,
+            "RequireCrystal": 5,
+            "ListIndexMul": {
+                "AttackBonus": 1.22,
+                "RecoveryBonus": 1.1,
+                "ClosingRate": 1.06,
+                "LegendItemRate": 1.1,
+                "MoneyBonus": 1.1,
+                "DesireBonus": 1.2,
+                "PlayerHP": 1.2,
+                "CrystalRate": 3
+            }
+        },
+        {
+            "TrainingLv": 5,
+            "RequireCrystal": 7,
+            "ListIndexMul": {
+                "AttackBonus": 1.28,
+                "RecoveryBonus": 1.125,
+                "ClosingRate": 1.075,
+                "LegendItemRate": 1.13,
+                "MoneyBonus": 1.125,
+                "DesireBonus": 1.25,
+                "PlayerHP": 1.25,
+                "CrystalRate": 3.5
+            }
+        },
+        {
+            "TrainingLv": 6,
+            "RequireCrystal": 10,
+            "ListIndexMul": {
+                "AttackBonus": 1.34,
+                "RecoveryBonus": 1.15,
+                "ClosingRate": 1.09,
+                "LegendItemRate": 1.16,
+                "MoneyBonus": 1.15,
+                "DesireBonus": 1.3,
+                "PlayerHP": 1.3,
+                "CrystalRate": 4
+            }
+        },
+        {
+            "TrainingLv": 7,
+            "RequireCrystal": 15,
+            "ListIndexMul": {
+                "AttackBonus": 1.41,
+                "RecoveryBonus": 1.175,
+                "ClosingRate": 1.105,
+                "LegendItemRate": 1.19,
+                "MoneyBonus": 1.175,
+                "DesireBonus": 1.35,
+                "PlayerHP": 1.35,
+                "CrystalRate": 4.5
+            }
+        },
+        {
+            "TrainingLv": 8,
+            "RequireCrystal": 23,
+            "ListIndexMul": {
+                "AttackBonus": 1.48,
+                "RecoveryBonus": 1.2,
+                "ClosingRate": 1.12,
+                "LegendItemRate": 1.22,
+                "MoneyBonus": 1.2,
+                "DesireBonus": 1.4,
+                "PlayerHP": 1.4,
+                "CrystalRate": 5
+            }
+        },
+        {
+            "TrainingLv": 9,
+            "RequireCrystal": 34,
+            "ListIndexMul": {
+                "AttackBonus": 1.55,
+                "RecoveryBonus": 1.225,
+                "ClosingRate": 1.135,
+                "LegendItemRate": 1.25,
+                "MoneyBonus": 1.225,
+                "DesireBonus": 1.45,
+                "PlayerHP": 1.45,
+                "CrystalRate": 5.5
+            }
+        },
+        {
+            "TrainingLv": 10,
+            "RequireCrystal": 51,
+            "ListIndexMul": {
+                "AttackBonus": 1.63,
+                "RecoveryBonus": 1.25,
+                "ClosingRate": 1.15,
+                "LegendItemRate": 1.028,
+                "MoneyBonus": 1.25,
+                "DesireBonus": 1.5,
+                "PlayerHP": 1.5,
+                "CrystalRate": 6
+            }
+        },
+        {
+            "TrainingLv": 11,
+            "RequireCrystal": 77,
+            "ListIndexMul": {
+                "AttackBonus": 1.71,
+                "RecoveryBonus": 1.275,
+                "ClosingRate": 1.165,
+                "LegendItemRate": 1.31,
+                "MoneyBonus": 1.275,
+                "DesireBonus": 1.55,
+                "PlayerHP": 1.55,
+                "CrystalRate": 6.5
+            }
+        },
+        {
+            "TrainingLv": 12,
+            "RequireCrystal": 115,
+            "ListIndexMul": {
+                "AttackBonus": 1.8,
+                "RecoveryBonus": 1.3,
+                "ClosingRate": 1.18,
+                "LegendItemRate": 1.34,
+                "MoneyBonus": 1.3,
+                "DesireBonus": 1.6,
+                "PlayerHP": 1.6,
+                "CrystalRate": 7
+            }
+        },
+        {
+            "TrainingLv": 13,
+            "RequireCrystal": 173,
+            "ListIndexMul": {
+                "AttackBonus": 1.89,
+                "RecoveryBonus": 1.325,
+                "ClosingRate": 1.195,
+                "LegendItemRate": 1.38,
+                "MoneyBonus": 1.325,
+                "DesireBonus": 1.65,
+                "PlayerHP": 1.65,
+                "CrystalRate": 7.5
+            }
+        },
+        {
+            "TrainingLv": 14,
+            "RequireCrystal": 259,
+            "ListIndexMul": {
+                "AttackBonus": 1.98,
+                "RecoveryBonus": 1.35,
+                "ClosingRate": 1.21,
+                "LegendItemRate": 1.41,
+                "MoneyBonus": 1.35,
+                "DesireBonus": 1.7,
+                "PlayerHP": 1.7,
+                "CrystalRate": 8
+            }
+        },
+        {
+            "TrainingLv": 15,
+            "RequireCrystal": 389,
+            "ListIndexMul": {
+                "AttackBonus": 2.08,
+                "RecoveryBonus": 1.375,
+                "ClosingRate": 1.225,
+                "LegendItemRate": 1.45,
+                "MoneyBonus": 1.375,
+                "DesireBonus": 1.75,
+                "PlayerHP": 1.75,
+                "CrystalRate": 8.5
+            }
+        },
+        {
+            "TrainingLv": 16,
+            "RequireCrystal": 584,
+            "ListIndexMul": {
+                "AttackBonus": 2.18,
+                "RecoveryBonus": 1.4,
+                "ClosingRate": 1.24,
+                "LegendItemRate": 1.48,
+                "MoneyBonus": 1.4,
+                "DesireBonus": 1.8,
+                "PlayerHP": 1.8,
+                "CrystalRate": 9
+            }
+        },
+        {
+            "TrainingLv": 17,
+            "RequireCrystal": 876,
+            "ListIndexMul": {
+                "AttackBonus": 2.29,
+                "RecoveryBonus": 1.425,
+                "ClosingRate": 1.225,
+                "LegendItemRate": 1.52,
+                "MoneyBonus": 1.425,
+                "DesireBonus": 1.85,
+                "PlayerHP": 1.85,
+                "CrystalRate": 9.5
+            }
+        },
+        {
+            "TrainingLv": 18,
+            "RequireCrystal": 1314,
+            "ListIndexMul": {
+                "AttackBonus": 2.41,
+                "RecoveryBonus": 1.45,
+                "ClosingRate": 1.27,
+                "LegendItemRate": 1.56,
+                "MoneyBonus": 1.45,
+                "DesireBonus": 1.9,
+                "PlayerHP": 1.9,
+                "CrystalRate": 10
+            }
+        },
+        {
+            "TrainingLv": 19,
+            "RequireCrystal": 1971,
+            "ListIndexMul": {
+                "AttackBonus": 2.53,
+                "RecoveryBonus": 1.475,
+                "ClosingRate": 1.285,
+                "LegendItemRate": 1.6,
+                "MoneyBonus": 1.475,
+                "DesireBonus": 1.95,
+                "PlayerHP": 1.95,
+                "CrystalRate": 10.5
+            }
+        },
+        {
+            "TrainingLv": 20,
+            "RequireCrystal": 2956,
+            "ListIndexMul": {
+                "AttackBonus": 2.65,
+                "RecoveryBonus": 1.5,
+                "ClosingRate": 1.3,
+                "LegendItemRate": 1.64,
+                "MoneyBonus": 1.5,
+                "DesireBonus": 2,
+                "PlayerHP": 2,
+                "CrystalRate": 11
+            }
+        }
+    ]
+}
+
+       

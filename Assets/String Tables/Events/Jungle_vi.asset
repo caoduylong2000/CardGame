@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Jungle_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: ec5ee65829716419fb4c9b5997021b70, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5943503770267680771
+  m_TableData:
+  - m_Id: 47860146176
+    m_Localized: "B\u1EA1n \u0111i ngang qua m\u1ED9t khu r\u1EEBng..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66638045184
+    m_Localized: "Ti\u1EBFp t\u1EE5c \u0111i trong r\u1EEBng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137505005568
+    m_Localized: "B\u1EA1n b\u1ECB bao v\xE2y b\u1EDFi m\u1ED9t nh\xF3m qu\u1EF7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 175748669440
+    m_Localized: "Ch\u1EA1y ra kh\u1ECFi nh\xF3m qu\u1EF7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 235286814720
+    m_Localized: "B\u1EA1n b\u1ECB th\u01B0\u01A1ng khi ch\u1EA1y tr\u1ED1n\n(M\u1EA5t
+      {hpjungle} HP)"
+    m_Metadata:
+      m_Items:
+      - rid: 5943503770267680771
+  - m_Id: 312717860864
+    m_Localized: "Quay l\u1EA1i B\u1EA3n \u0111\u1ED3"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5943503770267680771
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02fc836000000

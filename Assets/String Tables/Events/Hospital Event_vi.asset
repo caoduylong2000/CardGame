@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hospital Event_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: dd1ebdf789f634b0bbdd0a03f2de22fd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5943503770267680774
+  m_TableData:
+  - m_Id: 190437122048
+    m_Localized: "Ch\xE0o m\u1EEBng \u0111\u1EBFn v\u1EDBi B\u1EC7nh vi\u1EC7n Hell's,
+      t\xF4i c\xF3 th\u1EC3 gi\xFAp g\xEC cho b\u1EA1n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222309638144
+    m_Localized: "Ti\xEAu t\u1ED1n {20G} G, HP t\u1ED1i \u0111a +{10MHP} , HP +{10HP}"
+    m_Metadata:
+      m_Items:
+      - rid: 5943503770267680774
+  - m_Id: 248410791936
+    m_Localized: "Ti\xEAu t\u1ED1n {10G} G, HP +{10HP}"
+    m_Metadata:
+      m_Items:
+      - rid: 5943503770267680774
+  - m_Id: 267364851712
+    m_Localized: "Nh\u1EA3y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298364952576
+    m_Localized: "C\u1EA3m \u01A1n b\u1EA1n, h\u1EB9n g\u1EB7p l\u1EA1i sau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360574869504
+    m_Localized: "Quay l\u1EA1i b\u1EA3n \u0111\u1ED3"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5943503770267680774
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0afc23300000000e06fd639000000

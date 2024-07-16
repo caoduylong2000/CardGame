@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
+  m_Name: Vulnerable
+  m_EditorClassIdentifier: 
+  id: vulnerable
+  cardName: Vulnerable
+  manaCost: 1
+  cardSprite: {fileID: -2117094475, guid: 54f42f89120cf4558bc167b4dcce5703, type: 3}
+  rarity: 0
+  cardType: 1
+  usableWithoutTarget: 1
+  exhaustAfterPlay: 0
+  haveCondition: 0
+  cardActionDataList:
+  - cardActionType: 15
+    actionTargetType: 0
+    actionValue: 3
+    actionDelay: 0
+  cardDescriptionDataList:
+  - descriptionText: 'Get Enemy vulnerable '
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  - descriptionText: 
+    enableOverrideColor: 1
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 1
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 1
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 1
+  - descriptionText: ' turn.'
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  specialKeywordsList: 06000000
+  audioType: 9

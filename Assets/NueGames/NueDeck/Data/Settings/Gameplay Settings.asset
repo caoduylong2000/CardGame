@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01dd2752105b4ecbbc5e92d535616897, type: 3}
+  m_Name: Gameplay Settings
+  m_EditorClassIdentifier: 
+  drawCount: 5
+  maxMana: 3
+  initalAllyList:
+  - {fileID: 2835035829204582327, guid: 6472d62dc90afc04db103b9a3f293860, type: 3}
+  initalDeck: {fileID: 11400000, guid: 52d0316804ed8485e91d8190dfd12cd4, type: 2}
+  maxCardOnHand: 10
+  potionPack: {fileID: 11400000, guid: 7841fbbddc6f445ae9d0b4dcc4f23b35, type: 2}
+  allCardsList: {fileID: 11400000, guid: 2d16f16f7151544d1893cbf5f09e457c, type: 2}
+  cardPrefab: {fileID: 2689473134106589740, guid: a9728682a56595f4989b8f224d934689, type: 3}
+  allPotionsList: {fileID: 11400000, guid: b8d96f44143954bdf9961080e2703e1c, type: 2}
+  potionPrefab: {fileID: 2260778967915917102, guid: 040377ecd58b344c197e0ba40949375f, type: 3}
+  defaultName: Nue
+  useStageSystem: 0
+  isRandomHand: 0
+  randomCardCount: 10

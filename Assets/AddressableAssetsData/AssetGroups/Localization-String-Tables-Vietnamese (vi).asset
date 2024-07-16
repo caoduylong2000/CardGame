@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Vietnamese (vi)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Vietnamese (vi)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 08dcb4c3138c645f3b6e274a874960df
+  m_SerializeEntries:
+  - m_GUID: 8e42c9f4858c540c3a119af786f4e343
+    m_Address: UIText_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 793008a95bdca4696975aecd5bb9cb8f
+    m_Address: Intro_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b417ed751808d4e22904e1e96f49ae15
+    m_Address: Tutorial_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f010763b5d3e4665aa5f5fa47d829ad
+    m_Address: Tutorial Panel_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 650cfb87f4c274fe98ae6568649abb6b
+    m_Address: Corpse_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51d6345cb6b284a5f87fcac411a58806
+    m_Address: Nothing_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28924b24e7cf1406f91844d604cda26f
+    m_Address: Gold Pocket_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65b89e9ca1f6c4dba820b08dbac32dd5
+    m_Address: Hospital Event_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea1a516d42b904e4e8953c9821deba8d
+    m_Address: Jungle_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca8dbccfe503c4e6591d115f3d959c8d
+    m_Address: Small Gift_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74b7cf0a1e9994cc4a68ff506c277106
+    m_Address: CardDataTextTable_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 4920065234c16443a8711cc2091edd80, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0b628602a04c742dd84ff488292550ba, type: 2}
+    - {fileID: 11400000, guid: 5b730aa56730142d78af5078ae8c7e8d, type: 2}

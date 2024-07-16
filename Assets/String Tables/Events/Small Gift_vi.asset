@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Small Gift_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: f29354e8bc4734ba1b3b91e303581354, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 41291866112
+    m_Localized: "B\u1EA1n nh\u1EB7t m\u1ED9t chi\u1EBFc t\xFAi nh\u1ECF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52901699584
+    m_Localized: "C\xE1c m\u1EE5c xu\u1EA5t hi\u1EC7n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63873998848
+    m_Localized: "C\xE1c v\u1EADt d\u1EE5ng kh\xE1c c\xF3 t\xFAi \u0111\xE3 bi\u1EBFn
+      m\u1EA5t!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81485881344
+    m_Localized: "M\u1EDF n\xF3 ra!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95750709248
+    m_Localized: "B\u1ECF qua n\xF3!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137861521408
+    m_Localized: "Nh\u1EADn v\u1EADt ph\u1EA9m t\u1EEB t\xFAi nh\u1ECF."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152189263872
+    m_Localized: "B\u1ECF qua n\xF3!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166248570880
+    m_Localized: "Quay l\u1EA1i B\u1EA3n \u0111\u1ED3"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

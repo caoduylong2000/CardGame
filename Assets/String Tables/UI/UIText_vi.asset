@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 39807c14197c0470e855c55739384c5b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1904383000799084548
+  m_TableData:
+  - m_Id: 1346426930978816
+    m_Localized: "Ch\u01A1i m\u1EDBi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975086646026240
+    m_Localized: "Ti\u1EBFp t\u1EE5c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346530568036352
+    m_Localized: "Hu\u1EA5n luy\u1EC7n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346614886129664
+    m_Localized: "C\xE0i \u0111\u1EB7t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1346768968081408
+    m_Localized: "Ng\xF4n ng\u1EEF"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1368351371681792
+    m_Localized: "B\u1ECF qua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349871821905920
+    m_Localized: "B\u1EA3ng x\u1EBFp h\u1EA1ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1372964279803904
+    m_Localized: "H\u1ED3i ph\u1EE5c ({int})"
+    m_Metadata:
+      m_Items:
+      - rid: 1904383000799084548
+  - m_Id: 1373539528597504
+    m_Localized: "N\xE2ng c\u1EA5p"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974194567897088
+    m_Localized: "H\u1EBFt l\u01B0\u1EE3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974548676206592
+    m_Localized: "Thu\u1ED1c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974660630568960
+    m_Localized: "Th\u1EBB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974676619255808
+    m_Localized: "Di v\u1EADt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974740045520896
+    m_Localized: "Kho \u0111\u1ED3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974855120445440
+    m_Localized: "V\u01B0\u1EE3t m\xE0n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1974965418057728
+    m_Localized: "Th\u1EA5t b\u1EA1i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975061853495296
+    m_Localized: "Menu ch\xEDnh"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975181638623232
+    m_Localized: "Tr\u1EDF v\u1EC1 Map"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975215696371712
+    m_Localized: "\u0110\xF3ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975828589043712
+    m_Localized: "B\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1975840798662656
+    m_Localized: "D\xF9ng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986819435520000
+    m_Localized: "M\u1EE5c ti\xEAu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1986897852227584
+    m_Localized: "M\u1EE5c ti\xEAu h\u1EB1ng n\u0103m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990221544546304
+    m_Localized: "T\u1EA1m d\u1EEBng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990369637031936
+    m_Localized: "Ti\u1EBFp t\u1EE5c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990489099198464
+    m_Localized: "B\u1ECF cu\u1ED9c"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990810856841216
+    m_Localized: "K\u1EBFt qu\u1EA3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1990989756489728
+    m_Localized: "V\xE0ng th\u01B0\u1EDFng"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991306325778432
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991372662890496
+    m_Localized: "N\u0103m sau"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991699084599296
+    m_Localized: "B\u1ED9 b\xE0i"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1991943092428800
+    m_Localized: "Nh\u1EADp k\xED t\u1EF1..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1992054480560128
+    m_Localized: "L\u01B0u"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904383000799084548
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e02f28b4e00400

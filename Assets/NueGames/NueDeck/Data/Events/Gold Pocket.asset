@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e55fe900809e4167aa590fe848e6249, type: 3}
+  m_Name: Gold Pocket
+  m_EditorClassIdentifier: 
+  eventScript: {fileID: 4900000, guid: 82dc99067be984eddbd6f952997fd395, type: 3}
+  eventLocalized:
+    m_TableReference:
+      m_TableCollectionName: GUID:458a6d5a26e1649ecbc3d31386375e4f

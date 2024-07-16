@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Jungle
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: ec5ee65829716419fb4c9b5997021b70, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8104af5fed09b49b5a0b5c608dd6dd8c, type: 2}
+  - {fileID: 11400000, guid: 72cad3144d8a74bfdb13ed919657b5f8, type: 2}
+  - {fileID: 11400000, guid: ea1a516d42b904e4e8953c9821deba8d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

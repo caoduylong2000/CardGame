@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51760680432ff4978bdd56d883884552, type: 3}
+  m_Name: Stage Data
+  m_EditorClassIdentifier: 
+  StageList:
+  - StageParts:
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 5372378882958391809, guid: eed3341f773c944db9b598309d5f4724, type: 3}
+      StageFlipped: 1
+    - StageItem: {fileID: 282342293169327286, guid: f09f2a4468d1e42208f88d694189dc55, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 282342293169327286, guid: f09f2a4468d1e42208f88d694189dc55, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 5372378882958391809, guid: eed3341f773c944db9b598309d5f4724, type: 3}
+      StageFlipped: 1
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+  - StageParts:
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 5372378882958391809, guid: eed3341f773c944db9b598309d5f4724, type: 3}
+      StageFlipped: 1
+  - StageParts:
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 5372378882958391809, guid: eed3341f773c944db9b598309d5f4724, type: 3}
+      StageFlipped: 1
+  - StageParts:
+    - StageItem: {fileID: 4139873636842039389, guid: e3684c072cf664ba59162c098429ae6c, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 5372378882958391809, guid: eed3341f773c944db9b598309d5f4724, type: 3}
+      StageFlipped: 1
+  - StageParts:
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 689111334401507739, guid: 9ef61d1bf96494f3c8485c80c6792ded, type: 3}
+      StageFlipped: 0
+    - StageItem: {fileID: 1801222548773399277, guid: 65e165a8193a54b999c227824a359ce2, type: 3}
+      StageFlipped: 0

@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Intro Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Intro
+  m_TableCollectionNameGuidString: 6c3868a0abfba4870863cd26781e70ec
+  m_Entries:
+  - m_Id: 649130401792
+    m_Key: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1053926875136
+    m_Key: ???_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2485895815168
+    m_Key: ???_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2575351930880
+    m_Key: ???_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1308059754496
+    m_Key: ???_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560787542016
+    m_Key: ???_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1703125442560
+    m_Key: ???_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1817004990464
+    m_Key: ???_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1977638445056
+    m_Key: ???_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2132248879104
+    m_Key: ???_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2253392961536
+    m_Key: ???_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2347806744576
+    m_Key: ???_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 732542525440
+    m_Key: God
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2763105755136
+    m_Key: God_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3850558758912
+    m_Key: God_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2911579922432
+    m_Key: God_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3086092328960
+    m_Key: God_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3186592047104
+    m_Key: God_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3330922242048
+    m_Key: God_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3490624561152
+    m_Key: God_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3533549068288
+    m_Key: God_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3654705733632
+    m_Key: God_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3743872442368
+    m_Key: God_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013486497792
+    m_Key: God_11
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2801885022937939978
+  references:
+    version: 2
+    RefIds:
+    - rid: 2801885022937939978
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716882316823

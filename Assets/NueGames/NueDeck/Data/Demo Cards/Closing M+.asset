@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
+  m_Name: Closing M+
+  m_EditorClassIdentifier: 
+  id: CLS002+
+  cardName: Closing M
+  manaCost: 0
+  cardSprite: {fileID: 21300000, guid: a6da6d8cd591b43fb9b74b788cd89ef4, type: 3}
+  rarity: 1
+  cardType: 3
+  usableWithoutTarget: 1
+  exhaustAfterPlay: 0
+  haveCondition: 0
+  cardActionDataList:
+  - cardActionType: 14
+    actionTargetType: 1
+    actionValue: 13
+    actionDelay: 0
+  cardDescriptionDataList:
+  - descriptionText: 'Closing with '
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: 
+    overrideColorOnValueScaled: 0
+  - descriptionText: 
+    enableOverrideColor: 1
+    overrideColor: {r: 0, g: 0.42298555, b: 1, a: 1}
+    useModifier: 1
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 1
+    modifiedValuePrefix: 
+    overrideColorOnValueScaled: 0
+  - descriptionText: '% bonus'
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: 
+    overrideColorOnValueScaled: 0
+  specialKeywordsList: 
+  audioType: 0

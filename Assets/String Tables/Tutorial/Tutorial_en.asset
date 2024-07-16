@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: df2a3d7a880fc465d8dcf0943e02d491, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15463342080
+    m_Localized: You need an item to sell for demon!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380338429952
+    m_Localized: You can see the detail of item.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476299911168
+    m_Localized: Let me introduce the points you need to know when selling.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517806743552
+    m_Localized: Now try selling the item you chose.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541756219392
+    m_Localized: The higher the persuasion, the easier it is for customers to "Deal".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555085717504
+    m_Localized: Customer satisfaction has reached 50%. Look for "Closing Card" to
+      get "Deal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588728229888
+    m_Localized: It seems you are quite lucky to be able to close the deal with such
+      a low probability.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619296317440
+    m_Localized: You may not have noticed, but there is a special card used to close
+      a "Deal" with customers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644332118016
+    m_Localized: This card is called "Closing Card", this is an important card to
+      end the transaction between you and the customer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656671760384
+    m_Localized: 'Remember: "You need at least 1 Closing Card in your deck".'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671368601600
+    m_Localized: That is the Closing Card. This is a card that helps you close a
+      "Deal" with customers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683221704704
+    m_Localized: 'This is an important card, so remember: "You need at least 1 Closing
+      Card in your deck".'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701236240384
+    m_Localized: Now, try using the Closing Card!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

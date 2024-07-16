@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Hospital Event_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: dd1ebdf789f634b0bbdd0a03f2de22fd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1904382818564964370
+  m_TableData:
+  - m_Id: 190437122048
+    m_Localized: Welcome to Hell's Hospital, what can i help you?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 298364952576
+    m_Localized: Thank you, see you later
+    m_Metadata:
+      m_Items: []
+  - m_Id: 360574869504
+    m_Localized: Back to Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222309638144
+    m_Localized: Cost {20G} G, MaxHP +{10MHP} , HP +{10HP}
+    m_Metadata:
+      m_Items:
+      - rid: 1904382818564964370
+  - m_Id: 248410791936
+    m_Localized: Cost {10G} G, HP +{10HP}
+    m_Metadata:
+      m_Items:
+      - rid: 1904382818564964370
+  - m_Id: 267364851712
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1904382818564964370
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0afc23300000000e06fd639000000

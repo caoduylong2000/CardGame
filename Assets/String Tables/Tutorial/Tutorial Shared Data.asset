@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorial Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorial
+  m_TableCollectionNameGuidString: df2a3d7a880fc465d8dcf0943e02d491
+  m_Entries:
+  - m_Id: 15463342080
+    m_Key: text11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380338429952
+    m_Key: text12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476299911168
+    m_Key: text21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517806743552
+    m_Key: text22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541756219392
+    m_Key: text31
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555085717504
+    m_Key: text41
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588728229888
+    m_Key: text51
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619296317440
+    m_Key: text52
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644332118016
+    m_Key: text53
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656671760384
+    m_Key: text54
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671368601600
+    m_Key: text61
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683221704704
+    m_Key: text62
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701236240384
+    m_Key: text63
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2801885088278118403
+  references:
+    version: 2
+    RefIds:
+    - rid: 2801885088278118403
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717138276429

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: df2a3d7a880fc465d8dcf0943e02d491, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15463342080
+    m_Localized: "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306B\u58F2\u308B\u30A2\u30A4\u30C6\u30E0\u3092\u9078\u3073\u307E\u3057\u3087\u3046\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380338429952
+    m_Localized: "\u30A2\u30A4\u30C6\u30E0\u306E\u8A73\u7D30\u3092\u78BA\u8A8D\u3067\u304D\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 476299911168
+    m_Localized: "\u30A2\u30A4\u30C6\u30E0\u3092\u58F2\u308B\u969B\u306E\u30DD\u30A4\u30F3\u30C8\u3092\u89E3\u8AAC\u3057\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 517806743552
+    m_Localized: "\u9078\u3093\u3060\u5546\u54C1\u3092\u58F2\u3063\u3066\u307F\u307E\u3057\u3087\u3046\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 541756219392
+    m_Localized: "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306E\u6B32\u3057\u3044\u6C17\u6301\u3061\u304C\u9AD8\u3044\u307B\u3069\u3001\u8CA9\u58F2\u306F\u6210\u529F\u3057\u3084\u3059\u304F\u306A\u308A\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 555085717504
+    m_Localized: "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306E\u6B32\u3057\u3044\u5EA6\u304C50\uFF05\u306B\u306A\u308A\u307E\u3057\u305F\u3002\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0\u30AB\u30FC\u30C9\u3092\u4F7F\u3063\u3066\u307F\u307E\u3057\u3087\u3046\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588728229888
+    m_Localized: "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u306E\u6B32\u3057\u3044\u5EA6\u304C\u4F4E\u3044\u72B6\u614B\u3067\u53D6\u5F15\u304C\u6210\u529F\u3057\u305F\u306E\u306F\u5E78\u904B\u3067\u3057\u305F\u306D\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 619296317440
+    m_Localized: "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u3068\u306E\u53D6\u308A\u5F15\u304D\u3092\u6210\u7ACB\u3055\u305B\u308B\u305F\u3081\u306B\u306F\u3001\u7279\u5225\u306A\u30AB\u30FC\u30C9\u3092\u4F7F\u3046\u5FC5\u8981\u304C\u3042\u308A\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644332118016
+    m_Localized: "\u3053\u306E\u30AB\u30FC\u30C9\u306F\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0\u30AB\u30FC\u30C9\u3068\u3044\u3046\u30AB\u30FC\u30C9\u3067\u3001\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u3068\u306E\u53D6\u5F15\u3092\u5B8C\u4E86\u3059\u308B\u305F\u3081\u306E\u91CD\u8981\u306A\u30AB\u30FC\u30C9\u3067\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 656671760384
+    m_Localized: "\u300C\u30C7\u30C3\u30AD\u306B\u5C11\u306A\u304F\u3068\u3082 1
+      \u679A\u306E\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0 \u30AB\u30FC\u30C9\u304C\u5FC5\u8981\u300D\u3068\u3044\u3046\u3053\u3068\u3092\u899A\u3048\u3066\u304A\u3044\u3066\u304F\u3060\u3055\u3044\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 671368601600
+    m_Localized: "\u3053\u308C\u304C\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0\u30AB\u30FC\u30C9\u3067\u3059\u3002\u304A\u5BA2\u69D8\u3068\u306E\u300C\u53D6\u5F15\u300D\u3092\u6210\u7ACB\u3055\u305B\u308B\u305F\u3081\u306E\u30AB\u30FC\u30C9\u3067\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 683221704704
+    m_Localized: "\u3053\u308C\u306F\u91CD\u8981\u306A\u30AB\u30FC\u30C9\u306A\u306E\u3067\u300C\u30C7\u30C3\u30AD\u306B\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0\u30AB\u30FC\u30C9\u304C\u6700\u4F4E1\u679A\u5FC5\u8981\u300D\u3068\u3044\u3046\u3053\u3068\u3092\u899A\u3048\u3066\u304A\u304D\u307E\u3057\u3087\u3046\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 701236240384
+    m_Localized: "\u30AF\u30ED\u30FC\u30B8\u30F3\u30B0\u30AB\u30FC\u30C9\u3092\u4F7F\u3063\u3066\u307F\u307E\u3057\u3087\u3046\uFF01"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ce5b7198f85b467886cba216df1c93d, type: 3}
+  m_Name: Mana Potion
+  m_EditorClassIdentifier: 
+  id: mana
+  potionName: Mana Potion
+  potionSprite: {fileID: -1542986302, guid: 54f42f89120cf4558bc167b4dcce5703, type: 3}
+  rarity: 0
+  usableWithoutTarget: 0
+  exhaustAfterPlay: 0
+  haveCondition: 0
+  potionEffectDataList:
+  - potionEffectType: 2
+    actionTargetType: 1
+    actionValue: 2
+    actionDelay: 0
+  potionDescriptionDataList:
+  - descriptionText: Earn 2 mana
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 0}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: 
+    overrideColorOnValueScaled: 0
+  specialKeywordsList: 
+  audioType: 5

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial Panel_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7cf7582ed1d244b8fa3e49930fc1af38, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1107026763776
+    m_Localized: First, choose 1 card.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 914361409536
+    m_Localized: Select item to sale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 956430278656
+    m_Localized: Select to sale the item.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1013946769408
+    m_Localized: This is where you and your customer stand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1039079038976
+    m_Localized: You need to use action cards to convince customer to buy the item
+      you sell.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059433996288
+    m_Localized: With each successful persuasive action, customer satisfaction rate
+      increase.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1075338797056
+    m_Localized: You can end your turn as soon as you press this button!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1127788568576
+    m_Localized: Drag the card to area and release it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140543447040
+    m_Localized: Desire level increase after you successfully convince customer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4212871127040
+    m_Localized: Look in your hand, you have a card with a picture of a key.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
